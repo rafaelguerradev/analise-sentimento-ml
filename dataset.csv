@@ -1,0 +1,151 @@
+texto,sentimento
+"Adorei o produto, excelente qualidade!",positivo
+"Muito bom, recomendo a todos.",positivo
+"O atendimento foi incrível e rápido.",positivo
+"Superou minhas expectativas, comprarei novamente.",positivo
+"O custo-benefício é imbatível.",positivo
+"Chegou antes do prazo e muito bem embalado.",positivo
+"Funciona perfeitamente, estou muito satisfeito.",positivo
+"A interface do aplicativo é muito intuitiva e bonita.",positivo
+"Qualidade de som espetacular para o tamanho.",positivo
+"O tecido é macio e muito confortável para o dia a dia.",positivo
+"A bateria dura o dia todo, nota 10!",positivo
+"Minha melhor compra do ano, sem dúvidas.",positivo
+"Design lindo e acabamento premium.",positivo
+"O suporte técnico resolveu meu problema em cinco minutos.",positivo
+"Comida deliciosa e ambiente muito agradável.",positivo
+"Tudo certinho, não tenho do que reclamar.",positivo
+"As cores são vivas e a tela tem ótimo brilho.",positivo
+"Muito prático e fácil de montar sozinho.",positivo
+"Excelente profissional, muito atencioso no atendimento.",positivo
+"Vale cada centavo investido, sensacional.",positivo
+"Não gostei, veio com defeito.",negativo
+"Péssima experiência, não compro mais.",negativo
+"O sistema está travando muito.",negativo
+"Dinheiro jogado fora, material de péssima qualidade.",negativo
+"Atrasou mais de uma semana e o vendedor não responde.",negativo
+"Veio quebrado na caixa, solicito reembolso imediato.",negativo
+"Muito frágil, quebrou no primeiro uso.",negativo
+"O aplicativo fecha sozinho o tempo todo.",negativo
+"Atendimento péssimo, me trataram muito mal na loja.",negativo
+"Não funciona como anunciado, propaganda enganosa.",negativo
+"O som tem muito ruído, é quase impossível escutar.",negativo
+"A comida chegou fria e totalmente sem sabor.",negativo
+"Ficou pequeno e o tecido pinica a pele.",negativo
+"A bateria não dura nem duas horas fora da tomada.",negativo
+"Não comprem dessa loja, parece ser um golpe.",negativo
+"Péssimo acabamento, cheio de rebarbas perigosas.",negativo
+"Estou tentando cancelar a assinatura faz dias e não consigo.",negativo
+"Manual muito confuso, impossível entender como instala.",negativo
+"O produto parou de funcionar com exatamente um mês de uso.",negativo
+"Totalmente decepcionante, a cor é diferente da foto.",negativo
+"O pacote chegou hoje de manhã.",neutro
+"A cor do produto é azul.",neutro
+"O manual tem 20 páginas impressas.",neutro
+"O cabo de energia tem um metro de comprimento.",neutro
+"O pedido foi confirmado pelo sistema automatizado.",neutro
+"Este modelo específico funciona com pilhas AA.",neutro
+"O restaurante abre de segunda a sexta, ao meio-dia.",neutro
+"O aplicativo está disponível para Android e iOS.",neutro
+"O carro tem quatro portas e motor 1.0.",neutro
+"A caixa contém o aparelho principal e um carregador.",neutro
+"A atualização do software foi lançada ontem à noite.",neutro
+"Comprei o tamanho M para presente.",neutro
+"A garantia padrão do fabricante é de 12 meses.",neutro
+"O voo direto tem duração prevista de três horas.",neutro
+"O material da capa protetora é silicone transparente.",neutro
+"O livro tem capa dura e um total de 300 páginas.",neutro
+"A voltagem informada na caixa é bivolt (110v-220v).",neutro
+"O botão de ligar fica localizado na parte traseira.",neutro
+"O item foi enviado pela transportadora ontem à tarde.",neutro
+"O prato acompanha arroz, feijão e salada mista.",neutro
+"Achei o máximo, recomendo de olhos fechados.",positivo
+"O tecido é de primeira linha, super fresquinho.",positivo
+"Chegou impecável, parabéns ao vendedor pela embalagem.",positivo
+"Comprei para minha mãe e ela amou o presente.",positivo
+"Muito rápido e eficiente, resolveu meu problema na hora.",positivo
+"O jogo é divertidíssimo, gráficos incríveis e ótima jogabilidade.",positivo
+"A câmera do celular tira fotos fantásticas à noite.",positivo
+"Sabor inigualável, a melhor pizza que já comi na vida.",positivo
+"Fácil de configurar, em 5 minutos já estava usando.",positivo
+"A entrega foi feita antes do prazo estipulado, excelente.",positivo
+"Material muito resistente, aparenta ter grande durabilidade.",positivo
+"O tamanho ficou perfeito, exatamente como na tabela de medidas.",positivo
+"Meus filhos adoraram, não param de brincar com isso.",positivo
+"O software é leve e não consome muita memória do PC.",positivo
+"Fiquei impressionado com a qualidade do cancelamento de ruído.",positivo
+"Atendimento nota 10, o garçom foi muito educado.",positivo
+"O custo-benefício dessa compra foi maravilhoso.",positivo
+"As instruções são claríssimas, qualquer um consegue usar.",positivo
+"O perfume tem uma fixação excelente que dura o dia todo.",positivo
+"Superou minhas expectativas em todos os aspectos possíveis.",positivo
+"O teclado é macio e excelente para digitar por horas.",positivo
+"Limpa muito bem, facilitou demais minha rotina na casa.",positivo
+"A imagem da TV é incrivelmente nítida, recomendo.",positivo
+"Excelente aderência, o tênis é ótimo para corrida.",positivo
+"O pão chegou quentinho e crocante, uma delícia.",positivo
+"A plataforma é estável e nunca caiu durante as minhas aulas.",positivo
+"O motor é silencioso e tem uma potência absurda.",positivo
+"Muito bonito, combinou perfeitamente com a decoração da sala.",positivo
+"Fácil de lavar e não desbota na máquina.",positivo
+"Estou usando há três meses e continua funcionando como novo.",positivo
+"O botão quebrou na primeira vez que tentei apertar.",negativo
+"Decepcionante, não tem nada a ver com a foto do anúncio.",negativo
+"O suporte ao cliente é inexistente, ninguém responde meus emails.",negativo
+"A tela riscou com menos de uma semana de uso cuidadoso.",negativo
+"Muito caro pelo que oferece, achei que não vale a pena.",negativo
+"Veio faltando peças, não consigo montar o móvel.",negativo
+"O sabor é horrível, acabei jogando tudo fora.",negativo
+"O aplicativo consome muita bateria do celular em segundo plano.",negativo
+"Pior compra da minha vida, estresse total com a transportadora.",negativo
+"Desconfortável demais, machucou meu calcanhar inteiro.",negativo
+"O tecido encolheu muito na primeira lavagem.",negativo
+"A conexão Bluetooth cai a todo momento, é irritante.",negativo
+"Chegou com a caixa toda amassada e o vidro trincado.",negativo
+"O zíper estourou assim que tentei fechar a mochila.",negativo
+"A internet está muito lenta e cai toda noite.",negativo
+"Comida salgada demais, impossível de comer.",negativo
+"O microfone capta muito chiado, não serve para reuniões.",negativo
+"Me enviaram a cor errada e se recusam a trocar.",negativo
+"O manual está em chinês e não tem tradução para o português.",negativo
+"Péssima ergonomia, me deu dor nas costas.",negativo
+"O cabo rompeu na base depois de apenas duas semanas.",negativo
+"O cheiro desse produto é muito forte e me deu dor de cabeça.",negativo
+"Demorou três horas para entregar meu pedido do restaurante.",negativo
+"A costura é torta e cheia de fios soltos.",negativo
+"Faz um barulho insuportável quando está ligado.",negativo
+"Fui cobrado duas vezes no cartão de crédito por um erro do sistema.",negativo
+"As peças não encaixam direito, o corte veio errado.",negativo
+"Produto visivelmente usado, com marcas de dedo e poeira.",negativo
+"Não esquenta o suficiente, o café fica morno.",negativo
+"A atualização apagou todos os meus arquivos salvos.",negativo
+"O produto pesa exatamente 450 gramas.",neutro
+"A loja física funciona de segunda a sábado, em horário comercial.",neutro
+"O teclado possui layout ABNT2 com a tecla cedilha.",neutro
+"O tecido é composto por 80% algodão e 20% poliéster.",neutro
+"O modelo está disponível nas cores preto, branco, prata e vermelho.",neutro
+"O código de rastreio foi enviado para o email cadastrado na compra.",neutro
+"O livro é dividido em 12 capítulos principais e um epílogo.",neutro
+"A data de validade impressa na embalagem é para dezembro deste ano.",neutro
+"O pacote foi deixado na portaria do prédio com o zelador.",neutro
+"A voltagem do aparelho é 110v, ele não possui chave bivolt.",neutro
+"O ingresso é válido apenas para o setor da arquibancada superior.",neutro
+"A garrafa térmica tem capacidade para armazenar um litro de água.",neutro
+"O evento de tecnologia começará às 9h da manhã no auditório principal.",neutro
+"A mochila possui três bolsos externos com fechamento em zíper.",neutro
+"A receita leva farinha de trigo, leite, ovos e açúcar refinado.",neutro
+"A mensalidade do ginásio é debitada automaticamente no cartão.",neutro
+"O sistema operacional instalado de fábrica é o Windows 11 Home.",neutro
+"O contrato de locação tem validade mínima de doze meses.",neutro
+"A lâmpada utiliza tecnologia LED e bocal padrão E27.",neutro
+"O pagamento foi processado através de boleto bancário.",neutro
+"O voo fará uma escala técnica de quarenta minutos em São Paulo.",neutro
+"O tênis possui solado de borracha e fechamento por cadarço.",neutro
+"A farmácia de plantão fica na esquina da avenida principal.",neutro
+"O monitor tem taxa de atualização de 60Hz e painel IPS.",neutro
+"O roteador acompanha um cabo de rede amarelo de um metro.",neutro
+"A mesa é retangular e acomoda até seis pessoas sentadas.",neutro
+"O extrato da conta foi enviado no formato PDF.",neutro
+"A montagem do guarda-roupa deve ser feita por duas pessoas.",neutro
+"A cadeira possui regulagem de altura por pistão a gás.",neutro
+"A reserva do hotel foi feita no nome do titular do cartão.",neutro
