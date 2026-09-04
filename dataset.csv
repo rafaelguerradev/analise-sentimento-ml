@@ -149,3 +149,143 @@ texto,sentimento
 "A montagem do guarda-roupa deve ser feita por duas pessoas.",neutro
 "A cadeira possui regulagem de altura por pistão a gás.",neutro
 "A reserva do hotel foi feita no nome do titular do cartão.",neutro
+"O laboratório de engenharia tem computadores excelentes.",positivo
+"A plataforma em nuvem caiu durante a apresentação do projeto.",negativo
+"O deploy da aplicação foi concluído com sucesso e sem erros.",positivo
+"A viagem intermunicipal foi tranquila e o ônibus saiu no horário.",positivo
+"O teclado mecânico veio com o switch quebrado.",negativo
+"A creatina sem sabor é muito fácil de misturar com água.",positivo
+"O motorista do aplicativo cancelou a corrida três vezes seguidas.",negativo
+"O monitor Quad HD de 27 polegadas tem uma imagem perfeita para jogos.",positivo
+"O servidor de Minecraft não suportou a quantidade de jogadores e crashou.",negativo
+"A mensalidade da academia está sendo cobrada duplicada no meu cartão.",negativo
+"O whey protein sabor chocolate dissolve muito bem e é saboroso.",positivo
+"O evento de inteligência artificial foi excepcionalmente bem organizado.",positivo
+"A recarga do cartão de metrô pelo aplicativo não caiu na hora.",negativo
+"O painel de controle travou completamente durante a configuração.",negativo
+"Os equipamentos da academia são novos e a manutenção é em dia.",positivo
+"A placa de vídeo esquenta demais quando rodo jogos mais pesados.",negativo
+"O cabo de rede blindado CAT6 resolveu meu problema de latência.",positivo
+"A barbearia tem um ambiente excelente e o corte ficou perfeito.",positivo
+"O ar condicionado do quarto de hotel estava fazendo um barulho estranho.",negativo
+"O simulado online ajudou muito na minha preparação para a prova.",positivo
+"A camisa dry-fit tem um caimento perfeito para treinar.",positivo
+"A transportadora perdeu meu pacote e o suporte não resolve.",negativo
+"O ingresso para o summit de tecnologia foi fácil de comprar online.",positivo
+"A documentação da API é confusa e tem links quebrados.",negativo
+"O projeto de pesquisa utiliza banco de dados estruturado na nuvem.",neutro
+"O ônibus saiu de Feira de Santana às 14h.",neutro
+"O monitor possui taxa de atualização de 144hz.",neutro
+"A mensalidade vence no dia 10 de cada mês.",neutro
+"A recarga mínima do bilhete de transporte é de vinte reais.",neutro
+"O teclado tem iluminação RGB configurável via software.",neutro
+"A embalagem contém o suplemento e um medidor plástico.",neutro
+"O hotel fica localizado a dois quarteirões da avenida principal.",neutro
+"O curso preparatório tem módulos práticos e teóricos.",neutro
+"O roteador tem quatro portas Gigabit Ethernet.",neutro
+"A reserva inclui café da manhã servido a partir das 6h.",neutro
+"O domínio do site foi registrado por um período de um ano.",neutro
+"A apresentação da pesquisa durou cerca de vinte minutos.",neutro
+"A corrida de aplicativo teve um trajeto de quinze quilômetros.",neutro
+"O fone de ouvido possui entrada P2 e conexão sem fio.",neutro
+"A versão gratuita oferece até 5GB de armazenamento.",neutro
+"O processo de habilitação exige exames médicos e práticos.",neutro
+"O certificado foi emitido em formato digital na plataforma.",neutro
+"A gaita tem dez furos e afinação em Dó maior.",neutro
+"O campeonato do jogo acontece anualmente com times convidados.",neutro
+"O tecido do short é escuro e de tamanho G.",neutro
+"A placa-mãe suporta até 64GB de memória RAM.",neutro
+"O banco de dados armazena registros clínicos históricos.",neutro
+"O evento presencial ocorre no auditório central.",neutro
+"O aplicativo exige autenticação em duas etapas para login.",neutro
+"A mudança residencial foi agendada para uma terça-feira.",neutro
+"Estou fascinado com a velocidade de processamento desse cluster.",positivo
+"O suporte técnico demorou semanas para responder meu chamado.",negativo
+"A interface de usuário do portal do estudante é muito limpa.",positivo
+"O carregador de múltiplas portas pifou no segundo dia.",negativo
+"A precisão do modelo superou a marca de 90% logo de cara.",positivo
+"O pneu furou no meio da estrada e não havia assistência.",negativo
+"As aulas do bootcamp são extremamente práticas e diretas.",positivo
+"O fone machuca a orelha depois de meia hora de uso.",negativo
+"A certificação abriu muitas portas no mercado de trabalho.",positivo
+"O site de reservas cobrou taxas ocultas não informadas.",negativo
+"Consegui configurar o ambiente virtual em menos de dois minutos.",positivo
+"A tela do celular veio com um arranhão profundo na película.",negativo
+"Os gráficos do jogo indie são uma verdadeira obra de arte.",positivo
+"Meu acesso de estudante foi bloqueado sem nenhum aviso.",negativo
+"A cadeira ergonômica aliviou totalmente minhas dores nas costas.",positivo
+"O microfone capta o som do teclado inteiro durante a call.",negativo
+"O professor domina completamente a linguagem de programação.",positivo
+"A fila para entrar na conferência dobrava o quarteirão.",negativo
+"A integração entre os sistemas funcionou de primeira.",positivo
+"A bateria do notebook descarrega rapidamente se usar o Wi-Fi.",negativo
+"O painel do carro acendeu a luz de injeção eletrônica hoje.",neutro
+"O arquivo de configuração está no formato JSON.",neutro
+"A compra foi parcelada em três vezes sem juros.",neutro
+"O algoritmo utiliza árvores de decisão para classificar.",neutro
+"A temperatura do servidor é monitorada a cada cinco segundos.",neutro
+"O imóvel tem dois quartos e vista para a rua principal.",neutro
+"O filme de animação estreia no catálogo do streaming amanhã.",neutro
+"A taxa de leitura do SSD é de 3500 megabytes por segundo.",neutro
+"O boleto bancário foi gerado com data de vencimento para segunda.",neutro
+"A loja de suplementos abre às 8h e fecha às 18h.",neutro
+"O pacote de dados inclui chamadas ilimitadas para fixo.",neutro
+"O mouse tem dois botões laterais e ajuste de DPI.",neutro
+"O caminhão de mudança chegou no condomínio às 9h.",neutro
+"A consulta médica foi reagendada para a próxima semana.",neutro
+"O sistema operacional foi formatado e reinstalado do zero.",neutro
+"O apartamento fica no quarto andar do prédio.",neutro
+"O código fonte do projeto está hospedado em um repositório público.",neutro
+"O ingresso VIP garante acesso à área de networking.",neutro
+"A resolução do problema matemático exigiu dez passos.",neutro
+"O relatório de vendas mensal foi exportado em planilha.",neutro
+"Adorei a nova funcionalidade de busca, ficou muito mais rápida.",positivo
+"O tecido descosturou na primeira vez que coloquei na máquina.",negativo
+"O atendimento do barbeiro foi muito ágil e profissional.",positivo
+"O sistema de resfriamento líquido vazou e estragou minha placa.",negativo
+"O filme tem uma narrativa emocionante e trilha sonora impecável.",positivo
+"A tela tem muito reflexo e é difícil usar no sol.",negativo
+"O café da manhã do hotel é variado e muito fresco.",positivo
+"Meu pacote está parado na fiscalização há um mês.",negativo
+"O tênis de corrida é absurdamente leve e confortável.",positivo
+"A câmera desliga sozinha quando tento gravar em alta resolução.",negativo
+"O hambúrguer artesanal chegou quente e muito suculento.",positivo
+"A interface nova do aplicativo ficou confusa e lenta.",negativo
+"A estabilidade do servidor cloud é impressionante, zero quedas.",positivo
+"O tecido do sofá pega muito pelo e é difícil de limpar.",negativo
+"As mecânicas do RPG são profundas e garantem horas de diversão.",positivo
+"A tomada USB do painel parou de carregar meu telefone.",negativo
+"O processo de estorno do cartão foi rápido e sem burocracia.",positivo
+"O roteador perde sinal a poucos metros de distância.",negativo
+"A iluminação da lâmpada inteligente é forte e responde bem.",positivo
+"O zíper da jaqueta prende toda vez que tento fechar.",negativo
+"A calça jeans possui modelagem reta e dois bolsos traseiros.",neutro
+"O plano anual de assinatura tem renovação automática.",neutro
+"A conexão à internet é estabelecida via cabo de fibra ótica.",neutro
+"O exame de sangue exige jejum absoluto de doze horas.",neutro
+"O modelo do smartphone foi lançado no final do ano passado.",neutro
+"A sala de reuniões comporta confortavelmente dez pessoas.",neutro
+"O software gera alertas automáticos quando há falhas.",neutro
+"A caixa registradora emite o comprovante em papel térmico.",neutro
+"O livro técnico aborda estruturas de dados clássicas.",neutro
+"A reunião de alinhamento estratégico ocorrerá pelo Teams.",neutro
+"O pneu reserva fica guardado no porta-malas do veículo.",neutro
+"A jaqueta é fabricada com material sintético impermeável.",neutro
+"O prazo de análise de crédito é de cinco dias úteis.",neutro
+"A panela de pressão tem capacidade de quatro litros.",neutro
+"O relógio inteligente sincroniza os dados ao final do dia.",neutro
+"A porta de entrada do escritório tem fechadura digital.",neutro
+"O arquivo exportado ocupa cerca de cem megabytes de espaço.",neutro
+"A promoção é válida apenas para clientes cadastrados no site.",neutro
+"A impressora requer cartuchos de tinta colorida e preta.",neutro
+"O voo comercial faz o trajeto em menos de duas horas.",neutro
+"Fiquei maravilhado com a rapidez da resposta do chat.",positivo
+"O cabo do carregador partiu próximo ao conector.",negativo
+"A didática do instrutor torna o assunto muito fácil.",positivo
+"Os botões do controle são muito duros e fazem barulho.",negativo
+"A carne estava no ponto exato e muito bem temperada.",positivo
+"O site está em manutenção e não consigo pagar a fatura.",negativo
+"O caimento da camiseta é impecável no ombro.",positivo
+"A imagem da câmera de segurança é embaçada à noite.",negativo
+"O atendimento pelo WhatsApp resolveu minha dúvida na hora.",positivo
+"O armário de madeira veio com riscos na porta principal.",negativo
