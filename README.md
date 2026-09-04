@@ -27,6 +27,7 @@ analise-sentimento-ml/
 ├── app.py                          # Interface web local (Streamlit)
 ├── requirements.txt                # Dependências e bibliotecas do projeto
 └── README.md                       # Documentação do projeto
+```
 
 ## ⚙️ Como Executar o Projeto Localmente
 
@@ -38,8 +39,10 @@ Abra o terminal na pasta raiz do repositório.
 2. Criar e ativar o ambiente virtual (Recomendado)
 Bash
 python -m venv venv
+
 # No Windows (PowerShell):
 .\venv\Scripts\Activate
+
 # No Linux/macOS:
 source venv/bin/activate
 3. Instalar as dependências
