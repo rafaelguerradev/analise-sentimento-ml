@@ -1,60 +1,61 @@
-# Analisador de Sentimentos com Machine Learning e NLP
+# Análise de Sentimento — TF-IDF + Regressão Logística
 
-Pipeline completo de Processamento de Linguagem Natural (NLP) e Machine Learning para classificar avaliações de texto em três categorias: **Positivo**, **Neutro** e **Negativo**. O projeto engloba desde a curadoria e limpeza de dados até o treinamento estatístico, validação cruzada e uma interface web interativa em tempo real.
+Classificação de texto em português em três categorias — **negativo**,
+**neutro** e **positivo** — usando um pipeline de NLP clássico (TF-IDF +
+Regressão Logística), com interface web para testar o modelo interativamente.
 
----
+## Estrutura do repositório
 
-## 🛠️ Tecnologias Utilizadas
-
-* **Python** (Linguagem principal)
-* **Pandas** (Manipulação e limpeza estruturada de dados)
-* **Scikit-Learn** (Vetorização TF-IDF, Regressão Logística, Validação Cruzada e Métricas)
-* **Joblib** (Serialização e exportação do pipeline treinado)
-* **Streamlit** (Interface web interativa)
-
----
-
-## 📂 Estrutura do Projeto
-
-```text
+```
 analise-sentimento-ml/
-│
+├── data/
+│   └── dataset.csv           # 1.500 frases anotadas (negativo/neutro/positivo)
 ├── models/
-│   └── sentimento_pipeline.joblib  # Modelo treinado congelado
-│
-├── dataset.csv                     # Base de dados rotulada (texto, sentimento)
-├── modelagem.py                    # Script de ETL, treinamento, validação e exportação
-├── app.py                          # Interface web local (Streamlit)
-├── requirements.txt                # Dependências e bibliotecas do projeto
-└── README.md                       # Documentação do projeto
+│   └── sentimento_pipeline.joblib   # Modelo treinado (gerado por src/modelagem.py)
+├── src/
+│   └── modelagem.py           # Pré-processamento, treino, validação e exportação
+├── app/
+│   └── app.py                 # Interface web (Streamlit) para testar o modelo
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
-## ⚙️ Como Executar o Projeto Localmente
+## Pipeline
 
-Siga os passos abaixo para configurar o ambiente e rodar o projeto na sua máquina:
+1. **Dataset:** 1.500 frases anotadas manualmente, já balanceadas entre as
+   três classes.
+2. **Pré-processamento:** normalização de texto (minúsculas, remoção de URLs
+   e números), preservando `!` e `?` como sinal de sentimento.
+3. **Vetorização:** TF-IDF com n-gramas (1,2), `sublinear_tf=True`.
+4. **Modelo:** Regressão Logística.
+5. **Avaliação:** baseline de comparação (`DummyClassifier`), validação
+   cruzada estratificada (5 folds, acurácia e F1-macro) e avaliação final em
+   conjunto de teste (20%) nunca visto pelo modelo.
+6. **Interface:** app Streamlit que carrega o modelo salvo e classifica texto
+   digitado pelo usuário em tempo real, mostrando a probabilidade por classe.
 
-1. Clonar ou abrir a pasta do projeto
-Abra o terminal na pasta raiz do repositório.
+## Como rodar
 
-2. Criar e ativar o ambiente virtual (Recomendado)
-Bash
-python -m venv venv
-
-# No Windows (PowerShell):
-.\venv\Scripts\Activate
-
-# No Linux/macOS:
-source venv/bin/activate
-3. Instalar as dependências
-Bash
+```bash
 pip install -r requirements.txt
-4. Treinar o modelo
-Execute o script de modelagem para processar o dataset, rodar a validação cruzada (5 folds) e gerar o arquivo binário do modelo na pasta models/:
 
-Bash
-python modelagem.py
-5. Iniciar a interface web
-Com o modelo treinado e salvo, execute o Streamlit para testar as previsões de texto em tempo real:
+# Treinar o modelo (gera models/sentimento_pipeline.joblib)
+python src/modelagem.py
 
-Bash
-streamlit run app.py
+# Rodar a interface web
+streamlit run app/app.py
+```
+
+## Tecnologias
+
+- **Linguagem:** Python
+- **NLP / ML:** Scikit-learn (TF-IDF, Regressão Logística)
+- **Interface:** Streamlit
+- **Manipulação de dados:** Pandas
+
+## Notas
+
+- O projeto inicialmente usava o *Brazilian E-Commerce Public Dataset*
+  (Olist), mas foi migrado para um dataset próprio de 1.500 frases anotadas
+  manualmente, permitindo maior controle sobre o balanceamento das classes.
